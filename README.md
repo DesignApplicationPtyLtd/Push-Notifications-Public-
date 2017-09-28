@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to Mosqnet.io's Public Push Notifications Request Form With MasjidAlerts.com Guide
 
-You can use the [editor on GitHub](https://github.com/DesignApplicationPtyLtd/Push-Notifications-Public-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Anyone can request the send of push notifications, To request the send of an push notification you simply need to go on: [www.mosqnet.io/mosque/console/pushnotificationform/public/](http://apps.flatfur.com/julfaitrus/appsdesignlab/mosqnetmosqueconsole/index.php/pushnotificationform/pushnotificationform-public/) and than "Create a New Forum".
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+After all that, you will be able view the form to request the submit of an Push Notification.
 
-### Markdown
+If you need help or support using this console, Please [click here](http://appsdesignlab.com/mosqueconsole/).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Forum Title is the most important text, With a Maximum Length of 80 Characters, it is displayed on the Push Notification in itself. Try to keep it short and clear, It determines the users decision to click on it or not.
 
-```markdown
-Syntax highlighted code block
+The Large Box Field (under the Forum Title) (which supports Unlimited Characters and HTML) is what the user views after clicking on your Forum Title.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DesignApplicationPtyLtd/Push-Notifications-Public-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Once finished and you filled out an valid email, Click on the Submit button below to request your push notification. Once the Mosqnet.io team reviews your push notification we may publish it.
